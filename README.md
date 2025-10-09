@@ -20,28 +20,41 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ---
 
-### 🧰 Stack Tecnológico
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
+  <!-- ☁️ Cloud Providers -->
+  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="Google Cloud"/>
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <!-- ⚙️ DevOps & Automation -->
+  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=argocd" width="55" height="55" alt="Argo CD"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
+</p>
+
+<p align="center">
+  <!-- 💻 Development -->
+  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/>
+</p>
+
+<p align="center">
+  <!-- 🧩 Tools & Version Control -->
+  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="55" height="55" alt="VSCode"/>
 </p>
 
 ---
