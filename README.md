@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre Mí
+### 🚀 Sobre mí
 
 Soy **Ingeniero Cloud & DevOps** apasionado por construir infraestructuras escalables, seguras y automatizadas.  
 Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, **Nginx** entre muchos otros más— combinando arquitectura cloud con prácticas de automatización y desarrollo.
@@ -48,8 +48,17 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 </p>
 
 ---
-### 🧰 Tech Stack
+### 🧰 Experiencia
+A lo largo de mi carrera he enfrentado diversos retos que me han permitido aprender, crecer y evolucionar sobre la marcha.
+He tenido la oportunidad de diseñar arquitecturas cloud, desde las más simples hasta las más complejas, garantizando siempre seguridad, escalabilidad y operatividad en cada entorno.
 
+He implementado aplicaciones desde cero en distintos lenguajes y stacks, muchas de las cuales hoy corren en ambientes productivos.
+Disfruto ver cómo una idea se convierte en un servicio funcional, estable y automatizado.
+
+Mi trabajo diario combina lo mejor de ambos mundos: la nube y la infraestructura on-premise.
+Creo firmemente que “no solo del cloud vive el hombre”, por eso también dedico tiempo a gestionar redes, servidores, contenedores y bases de datos, fortaleciendo así mi entendimiento de la infraestructura de punta a punta.
+
+Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no solo funcionan, sino que facilitan la vida a quienes las utilizan y mantienen.
 
 ---
 
@@ -75,8 +84,6 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 ---
 
 ## 🎯 Proyectos Destacados
-
-<div align="center">
   
 | 🚀 **Proyecto** | 📝 **Descripción** | 🛠️ **Tecnologías** |
 |---|---|---|
@@ -84,15 +91,11 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 | **CI/CD Pipelines** | Automatización de despliegues | `GitHub Actions` `Docker` `ArgoCD` |
 | **Monitoring Stack** | Observabilidad completa | `Prometheus` `Grafana` `ELK Stack` |
 
-</div>
-
 ---
 
 ## 💭 Filosofía DevOps
 
 > *"La automatización no es solo una herramienta, es una mentalidad que transforma cómo construimos, desplegamos y mantenemos sistemas resilientes."*
-
-<div align="left">
 
 ### 🎯 **Principios Clave**
 ```
@@ -101,17 +104,15 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 🚀 Deploy Frecuentes          🔐 DevSecOps               📈 Métricas Accionables
 ```
 
-</div>
-
 ---
 
 ### 🌎 Conéctate Conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/llima-ix/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-lima-39334a1a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:contact@llimaix.com" target="_blank">
+  <a href="mailto:luislima.ixc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
