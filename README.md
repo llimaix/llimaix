@@ -48,16 +48,19 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 </p>
 
 ---
+### 🧰 Tech Stack
+
+
+---
 
 ## ❔ Métricas & Actividad
 
 <div align="center">
-
-### 🏆 **Estadísticas de GitHub**
+<!--### 🏆 **Estadísticas de GitHub**-->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=llimaix&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=CDD6F4&icon_color=5CE1E6" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=llimaix&theme=react&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" />
 
-### 📈 **Actividad de Contribuciones**
+<!-- ### 📈 **Actividad de Contribuciones**-->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llimaix&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true" />
 
 <!---
