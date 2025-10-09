@@ -23,14 +23,15 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <!-- ☁️ Cloud Providers -->
+  ☁️ Cloud Providers
   <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
   <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure"/>
   <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="Google Cloud"/>
 </p>
+</br>
 
 <p align="center">
-  <!-- ⚙️ DevOps & Automation -->
+  ⚙️ DevOps & Automation
   <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" alt="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform"/>
@@ -40,7 +41,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 </p>
 
 <p align="center">
-  <!-- 💻 Development -->
+  💻 Development
   <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
   <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
@@ -50,7 +51,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 </p>
 
 <p align="center">
-  <!-- 🧩 Tools & Version Control -->
+  🧩 Tools & Version Control
   <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/>
