@@ -98,11 +98,9 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 > *"La automatización no es solo una herramienta, es una mentalidad que transforma cómo construimos, desplegamos y mantenemos sistemas resilientes."*
 
 <h3 align="left">🎯 Principios Clave</h3>
-```
-🔄 Automatización Continua    🛡️ Seguridad Integrada    📊 Observabilidad Total
-   ↓                            ↓                         ↓
-🚀 Deploy Frecuentes          🔐 DevSecOps               📈 Métricas Accionables
-```
+
+🔄 **Automatización Continua** &nbsp;&nbsp;&nbsp; 🛡️ **Seguridad Integrada** &nbsp;&nbsp;&nbsp; 📊 **Observabilidad Total**  
+🚀 **Deploy Frecuentes** &nbsp;&nbsp;&nbsp; 🔐 **DevSecOps** &nbsp;&nbsp;&nbsp; 📈 **Métricas Accionables**
 
 ---
 
