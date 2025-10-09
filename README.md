@@ -1,26 +1,26 @@
-<h1 align="center">👋 Hey there, I'm Luis Lima</h1>
+<h1 align="center">👋 ¡Hola! Soy Luis Lima</h1>
 
 <p align="center">
-  ☁️ <b>Cloud & DevOps Engineer</b> | IaC · CI/CD · Automation · Deployment · Dev  
+  ☁️ <b>Ingeniero Cloud & DevOps</b> | IaC · CI/CD · Automatización · Despliegue · Dev  
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mí
 
-I’m a **Cloud & DevOps Engineer** passionate about building scalable, secure, and automated infrastructures.  
-My daily stack includes **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, and **Nginx** — combining cloud architecture with automation and development practices.
+Soy **Ingeniero Cloud & DevOps** apasionado por construir infraestructuras escalables, seguras y automatizadas.  
+Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, **Nginx** entre muchos otros más— combinando arquitectura cloud con prácticas de automatización y desarrollo.
 
-💡 I specialize in:
-- Infrastructure as Code (Terraform, CloudFormation)
-- CI/CD pipelines (GitHub Actions, Azure DevOps)
-- Containerization & Orchestration (Docker, ECS, Kubernetes)
-- Reverse proxy and security (Nginx, WAF, SSL)
-- Cloud cost optimization and automation
+💡 Me especializo en:
+- Infraestructura como Código (Terraform, CloudFormation, Pulumi)
+- Pipelines CI/CD (GitHub Actions, Azure DevOps)
+- Contenerización y Orquestación (Docker, ECS, Kubernetes)
+- Proxy inverso y seguridad (Nginx, WAF, SSL)
+- Optimización de costos cloud y automatización
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Stack Tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -35,16 +35,16 @@ My daily stack includes **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ---
 
-### 📈 GitHub Stats
+### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=llimaix&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=llimaix&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=llimaix&show_icons=true&theme=tokyonight&hide_border=true" alt="llimaix's GitHub stats"/>
+  <img width="48%" src="https://streak-stats.demolab.com?user=llimaix&theme=tokyonight&hide_border=true" alt="llimaix's GitHub streak"/>
 </p>
 
 ---
 
-### 🌎 Connect with Me
+### 🌎 Conéctate Conmigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/llima-ix/" target="_blank">
@@ -57,4 +57,4 @@ My daily stack includes **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ---
 
-⭐️ From [@llimaix](https://github.com/llimaix)
+⭐️ Por [@llimaix](https://github.com/llimaix)
