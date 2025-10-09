@@ -23,36 +23,25 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 ### 🧰 Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/azure-icon.svg" alt="Azure" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/gcp-icon.svg" alt="GCP" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/terraform-icon.svg" alt="Terraform" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="65" height="65" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
 </p>
 
 ---
