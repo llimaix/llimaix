@@ -49,7 +49,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ---
 
-## � Métricas & Actividad
+## ❔ Métricas & Actividad
 
 <div align="center">
 
@@ -60,6 +60,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 ### 📈 **Actividad de Contribuciones**
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llimaix&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true" />
 
+<!---
 ### 🔝 **Lenguajes Más Utilizados**
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llimaix&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=CDD6F4&icon_color=5CE1E6&hide=html,css" />
 
@@ -67,7 +68,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=llimaix&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
-
+-->
 ---
 
 ## 🎯 Proyectos Destacados
@@ -88,7 +89,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 > *"La automatización no es solo una herramienta, es una mentalidad que transforma cómo construimos, desplegamos y mantenemos sistemas resilientes."*
 
-<div align="center">
+<div align="left">
 
 ### 🎯 **Principios Clave**
 ```
