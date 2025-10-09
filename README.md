@@ -20,7 +20,7 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ---
 
-### 🧰 Tech Stack
+### 🤖 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS"/>
@@ -83,7 +83,7 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 -->
 ---
 
-<h3 align="left">🎯 Proyectos Destacados</h3>
+<h3 align="left">🌟 Proyectos Destacados</h3>
   
 | 🚀 **Proyecto** | 📝 **Descripción** | 🛠️ **Tecnologías** |
 |---|---|---|
