@@ -22,41 +22,18 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 
 ### 🧰 Tech Stack
 
-### ☁️ **Proveedores Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws" width="55" height="55" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=azure" width="55" height="55" alt="Azure"/>
-  <img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="Google Cloud"/>
-</p>
-</br>
-
-### ⚙️ **DevOps & Automation**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="55" height="55" alt="Kubernetes"/>
-  <img src="https://skillicons.dev/icons?i=terraform" width="55" height="55" alt="Terraform"/>
-  <img src="https://skillicons.dev/icons?i=argocd" width="55" height="55" alt="Argo CD"/>
-  <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55" alt="Nginx"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform" width="55" height="55" alt="Cloud & DevOps Stack"/>
 </p>
 
-### 💻 **Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="55" height="55" alt="Java"/>
-  <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=argocd,nginx,linux,java,js,nodejs" width="55" height="55" alt="DevOps & Infra Stack"/>
 </p>
 
-### 🧩 **Tools & Version Control**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=bash" width="55" height="55" alt="Bash"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="55" height="55" alt="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=react,mysql,mongodb,git,github,bash" width="55" height="55" alt="Development & Tools Stack"/>
 </p>
+
 
 ---
 
