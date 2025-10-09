@@ -23,14 +23,36 @@ Mi stack diario incluye **AWS**, **Azure**, **GCP**, **Docker**, **Terraform**, 
 ### 🧰 Stack Tecnológico
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" alt="Azure"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="50" height="50" alt="Google Cloud"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=terraform" width="50" height="50" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="50" height="50" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="50" height="50" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
 </p>
 
 ---
