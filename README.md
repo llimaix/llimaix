@@ -83,7 +83,7 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 -->
 ---
 
-# 🎯 Proyectos Destacados
+<h3 align="left">🎯 Proyectos Destacados</h3>
   
 | 🚀 **Proyecto** | 📝 **Descripción** | 🛠️ **Tecnologías** |
 |---|---|---|
@@ -93,11 +93,11 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 
 ---
 
-# 💭 Filosofía DevOps
+<h3 align="left">💭 Filosofía DevOps</h3>
 
 > *"La automatización no es solo una herramienta, es una mentalidad que transforma cómo construimos, desplegamos y mantenemos sistemas resilientes."*
 
-## 🎯 **Principios Clave**
+<h3 align="left">🎯 Principios Clave</h3>
 ```
 🔄 Automatización Continua    🛡️ Seguridad Integrada    📊 Observabilidad Total
    ↓                            ↓                         ↓
