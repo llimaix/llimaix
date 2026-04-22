@@ -79,9 +79,9 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llimaix&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true" />
 
-### 🏅 Logros GitHub
+### 👁️ Visitas al Perfil
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=llimaix&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+![Profile Views](https://komarev.com/ghpvc/?username=llimaix&style=for-the-badge&color=5CE1E6&label=VISITAS+AL+PERFIL)
 
 </div>
 ---
