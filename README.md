@@ -62,25 +62,28 @@ Me apasiona automatizar, optimizar y construir soluciones sólidas, esas que no 
 
 ---
 
-## ❔ Métricas & Actividad
+## 📊 Métricas & Actividad
 
 <div align="center">
-<!--### 🏆 **Estadísticas de GitHub**-->
+
+### 🏆 Estadísticas de GitHub
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=llimaix&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=CDD6F4&icon_color=5CE1E6" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=llimaix&theme=react&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=llimaix&theme=react&hide_border=true&background=0D1117&stroke=5CE1E6&ring=5CE1E6&fire=5CE1E6&currStreakLabel=5CE1E6" />
 
-<!-- ### 📈 **Actividad de Contribuciones**-->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llimaix&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true" />
+### � Lenguajes Más Utilizados
 
-<!---
-### 🔝 **Lenguajes Más Utilizados**
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llimaix&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5CE1E6&text_color=CDD6F4&icon_color=5CE1E6&hide=html,css" />
 
-### 🏅 **Logros GitHub**
+### � Actividad de Contribuciones
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=llimaix&bg_color=0D1117&color=5CE1E6&line=5CE1E6&point=FFFFFF&area=true&hide_border=true" />
+
+### 🏅 Logros GitHub
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=llimaix&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
--->
 ---
 
 <h3 align="left">🌟 Proyectos Destacados</h3>
